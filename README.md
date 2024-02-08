@@ -17,7 +17,7 @@
 - 💻 I am a data driven enthusiast
 - 💞️ My passion for data keeps me on my feet every now and then
 - 📖 Aspiring to become a doctor of data analytics
-- 👫 We can collaborate on anything data analysis projects
+- 👫 We can collaborate on anything data analysis project
 - 💬 Let's talk data
 - 🌱 I’m currently learning Python...
 - 📫 Reach out to me via email: **mgilbertnana@gmail.com** or via [Contact form](https://gilbertmozu.me)
